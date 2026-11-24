@@ -1,2 +1,10 @@
+# Bouton Sponsor du dépôt DONATE (branche par défaut).
+# Ko-fi est le champ officiel ; Stripe passe par une URL personnalisée
+# (GitHub autorise jusqu'à quatre liens custom).
+# Ne pas remettre le lien vers ce même dépôt : ce serait circulaire.
+# GitHub Sponsors n'est pas activé. Si vous créez un profil Sponsors
+# (gratuit pour le bénéficiaire), ajoutez alors la ligne :
+#   github: ZarTek-Creole
 ko_fi: zartek
-custom: ['github.com/ZarTek-Creole/DONATE']
+custom:
+  - "https://buy.stripe.com/fZe4hTc934M49Us289"
